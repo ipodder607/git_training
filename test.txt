@@ -1,2 +1,3 @@
 testing mereg conflict
 add new line
+added_new_line
