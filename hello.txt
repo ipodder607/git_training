@@ -1,5 +1,5 @@
  i am indrajit podder id -ipodder
-i live in kakdwip
+i live in Bangalore 
 
 
 
@@ -15,3 +15,7 @@ already created test.txt file in master branch
 
 added last line
  hello Madhusri
+
+
+i am in different path
+change the local main to mastre
